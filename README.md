@@ -32,8 +32,6 @@ python3 evaluation/evaluate.py
 
 All simulations were performed in the Gazebo simulator, enhanced with RotorS and UUVSim plugins for realistic aerial and underwater dynamics.
 
-## Demonstration GIFs
-
 | ![Grando jint a-w-pd-rl](media/grando_jint_a-w-pd-rl.gif) | ![Grando jint w-a-pd-rl](media/grando_jint_w-a-pd-rl.gif) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|
 |    A-W PD-RL                                    |    W-A PD-RL                                    |
