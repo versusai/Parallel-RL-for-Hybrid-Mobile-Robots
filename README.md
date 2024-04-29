@@ -16,7 +16,7 @@ We present a novel parallel deep reinforcement learning framework that significa
 
 ## Installation
 
-Please ensure that you have installed all dependencies as listed in `requirements.txt` (TODO: add file and dependencies).
+Please ensure that you have installed all dependencies as listed in `requirements.txt`.
 
 ## Usage
 
@@ -36,9 +36,9 @@ All simulations were performed in the Gazebo simulator, enhanced with RotorS and
 
 | ![Grando jint a-w-pd-rl](media/grando_jint_a-w-pd-rl.gif) | ![Grando jint w-a-pd-rl](media/grando_jint_w-a-pd-rl.gif) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|
-|    Grando jint a-w-pd-rl                                    |    Grando jint w-a-pd-rl                                    |
+|    A-W PD-RL                                    |    W-A PD-RL                                    |
 | ![Grando jint a-w-ps-rl](media/grando_jint_a-w-ps-rl.gif)  | ![Grando jint w-a-ps-rl](media/grando_jint_w-a-ps-rl.gif)  |
-|    Grando jint a-w-ps-rl                                    |    Grando jint w-a-ps-rl                                    |
+|    A-W PS-RL                                    |    W-A PS-RL                                    |
 
 ## Paper and Citation
 
