@@ -16,7 +16,7 @@ We present a novel parallel deep reinforcement learning framework that significa
 
 ## Installation
 
-Please ensure that you have installed all dependencies as listed in `requirements.txt`.
+Please ensure that you have installed all dependencies as listed in `Parallel-Hydrone-DRL/requirements.txt`.
 
 ## Usage
 
