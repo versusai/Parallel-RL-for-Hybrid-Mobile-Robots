@@ -1,4 +1,4 @@
-# Parallel Deep Reinforcement Learning for Hybrid Mobile Robots
+<h1 align="center">Parallel Deep Reinforcement Learning <br> for Hybrid Mobile Robots</h1>
 
 This repository contains the code and simulation environments for the paper "Parallel Deep Reinforcement Learning for Hybrid Mobile Robots," which introduces a parallel deep reinforcement learning methodology for mapless navigation of Hybrid Unmanned Aerial Underwater Vehicles (HUAUVs).
 
